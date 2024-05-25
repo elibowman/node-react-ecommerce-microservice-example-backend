@@ -1,0 +1,25 @@
+node_modules
+/.env
+coverage
+.DS_Store
+README.md
+
+/package.json
+/package-lock.json
+/public
+/db copy.json
+/db.js
+/db.json
+/notes.mongo
+/notes.sql
+/notes.txt
+/server.js
+/temp
+/requests.rest
+
+/src/models
+/src/cart-service/jest config file (temp)
+/src/cart-service/test.txt
+/src/cart-service/api-test.js
+
+tsconfig_json
